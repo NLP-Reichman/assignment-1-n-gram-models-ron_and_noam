@@ -1,5 +1,4 @@
 {
-  "link": "https://github.com/NLP-Reichman/assignment-1-n-gram-models-ron_and_noam.git",
   "test_preprocess": {
     "vocab_length": 1804
   },
@@ -25,3 +24,4 @@
     "french_3_gram": "Je suistreil Her lon in vs "
   }
 }
+
